@@ -1,0 +1,9 @@
+
+(eats,come)
+(beans,frijoles)
+(test,parcial)
+(three,tres)
+(points,puntos)
+(calculous,calculo)
+(studies,estudia)
+(the,el)
